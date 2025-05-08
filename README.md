@@ -5,4 +5,5 @@
 pygbagを使ってweb上で動作します。
 
 プレイ↓
+
 https://at3388.github.io/MyReversi/
